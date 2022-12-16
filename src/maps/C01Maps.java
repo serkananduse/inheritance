@@ -1,5 +1,6 @@
 package maps;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -22,5 +23,7 @@ public class C01Maps {
         int ogrenciKey =106;
         String isimSoyisim=MapDepo.isimSoyisimDondur(ogrenciMap,ogrenciKey);
         System.out.println(isimSoyisim);
+
+
     }
 }
